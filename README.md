@@ -17,7 +17,7 @@ The scripts require [BepInEx.ScriptLoader](https://github.com/denikson/BepInEx.S
 You can read each script's description by opening it as a text file.  
 The listing below is a copy-paste of each script's description.
 
-## Cheats
+### Cheats
 
 #### `feel_ctrl.cs`
 
