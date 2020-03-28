@@ -7,7 +7,7 @@ The scripts require [BepInEx.ScriptLoader](https://github.com/denikson/BepInEx.S
 ## Installation
 
 0. Install ScriptLoader
-1. Download the repository (big green button => `Download ZIP`) or single scripts as .cs files
+1. Download the repository (big green `Clone or download` button => `Download ZIP`) or single scripts as .cs files
 2. Place the scripts you want into the `scripts` folder
 3. ???
 4. Horse around
